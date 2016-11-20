@@ -1,0 +1,98 @@
+[
+  {
+    "line":"League of Shadows",
+    "date":"Spr 16",
+    "image": "/LineagePhotos/Paradox16.JPG",
+    "members": [
+      {"lineName":"Fa1l ∑afe", "name":"Ronnie Little Jr"},
+      {"lineName":"Kill ∑witch", "name":"Corey Williams"},
+      {"lineName":"D3tonation", "name":"Corey Hemphill"}
+    ]
+  }, {
+    "line":"The Convenant of Solitude",
+    "date":"Fall 14",
+    "image": "/LineagePhotos/Covenant14.jpg",
+    "members": [
+      {"lineName":"Apost1e", "name":"Jermaine Cheairs"}
+    ]
+  }, {
+    "line":"The Convenant of Solitude",
+    "date":"Spr 13",
+    "image": "/LineagePhotos/Paradox16.JPG",
+    "members": [
+      {"lineName":"AsCEncion", "name":"Christopher Mitchell"},
+      {"lineName":"Cerberus", "name":"Ryeon Wedley"},
+      {"lineName":"Haywir3", "name":"Tyrin Fairman"},
+      {"lineName":"PhosFOURus", "name":"Markeith Brown"}
+    ]
+  }, {
+    "line":"The FOURmula",
+    "date":"Spr 11",
+    "image": "/LineagePhotos/F.jpg",
+    "members": [
+      {"lineName":"Resilience", "name":"Jeremy Henriquez"},
+      {"lineName":"Remedy", "name":"Kris Tucker"},
+      {"lineName":"InΣidious", "name":"Trenton Willis"},
+      {"lineName":"Withstand", "name":"Tyrone Dodson"},
+      {"lineName":"The Arbitrator", "name":"Keith Thomas"},
+      {"lineName":"ReTAILiation", "name":"Fredrick (DC) Wallace Jr"}
+    ]
+  }, {
+    "line":"The Σyndicate",
+    "date":"Fall 09",
+    "image": "/LineagePhotos/S.jpg",
+    "members": [
+      {"lineName":"MenACE", "name":"Jaesun Campbell"},
+      {"lineName":"Renegade", "name":"Jeremy Stokes"},
+      {"lineName":"The Godfather", "name":"Xavier Andrews"}
+    ]
+  }, {
+    "line":"Weapons of Mass Destruction (W.M.D.)",
+    "date":"Fall 07",
+    "image": "/~kappachi/LineagePhotos/W.jpg",
+    "members": [
+      {"lineName":"Rampage", "name":"Dawo Rogers"},
+      {"lineName":"Juggernaut", "name":"Obinna Alu"},
+      {"lineName":"Authority", "name":"Stanley McGrady"},
+      {"lineName":"Reconnaissance", "name":"Kenneth Woods"},
+      {"lineName":"The 5th Element", "name":"Rickey Fayne Jr."},
+      {"lineName":"The Negotiator", "name":"Michael Russom"},
+      {"lineName":"Catalyst", "name":"Sam Davis IV"},
+      {"lineName":"Special O.P.S.", "name":"Phoeran Cooper"},
+      {"lineName":"Ether", "name":"Dennis McCreary"},
+      {"lineName":"Backlash", "name":"Wayne Chism"}
+    ]
+  }, {
+    "line":"Against All Odds (9.1.1.)",
+    "date":"Spr 06",
+    "image": "/LineagePhotos/aao.png",
+    "members": [
+      {"lineName":"The Crisis/ Short Fuse", "name":"Mark Scott"},
+      {"lineName":"The Truth", "name":"Marlon Boyd"},
+      {"lineName":"Prodigal Son/Prodigy", "name":"Anthony Hobson"},
+      {"lineName":"The Product", "name":"Jon Harris"},
+      {"lineName":"The Alchemist", "name":"Joel White"},
+      {"lineName":"Sincere", "name":"Aaron Porter"},
+      {"lineName":"The Prophet", "name":"Larry Sykes"},
+      {"lineName":"8th Wonder", "name":"Raphael Brown"},
+      {"lineName":"Atlas", "name":"	Antoine Johnson"}
+    ]
+  }, {
+    "line":"The Dynasty",
+    "date":"Fall 05",
+    "image": "http://web.utk.edu/~kappachi/LineagePhotos/dynasty.png",
+    "members": [
+      {"lineName":"", "name":""},
+    ]
+  }
+]
+
+
+, {
+    "line":"",
+    "date":"",
+    "image": "",
+    "members": [
+      {"lineName":"", "name":""},
+    ]
+  }
