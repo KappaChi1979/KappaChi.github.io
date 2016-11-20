@@ -57,7 +57,15 @@ section > div > p {
   font-family: 'Allura', cursive;
   font-size: 1.7em;
 }
+.flex {
+  display: flex;
+}
 
+@media screen and (max-width: 690px) {
+  .flex{ 
+    display: block;
+  }
+}
 .raleway {
 }
 .table-striped tbody tr:nth-child(even) {
