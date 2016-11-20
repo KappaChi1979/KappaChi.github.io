@@ -1,1 +1,1 @@
-web: cd app && python3 -m http.server
+web: cd app && python3 -m http.server $PORT
