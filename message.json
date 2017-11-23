@@ -306,15 +306,15 @@
         "lineName":"Inspectah Deck"
       },
       {
-        "lineName": "Tha Genius",
-        "name": "Jamal Craig"
+        "lineName": "Da Genius",
+        "name": "Jamaal Craig"
       },
       {
         "lineName": "Method Man",
         "name": "Jonathan Smith "
       },
       {
-        "lineName": "Ghostface Killa ",
+        "lineName": "GhostFace Killah",
         "name": "Kasim Barnes "
       }
     ]
@@ -454,6 +454,7 @@
         "name": "Isa Conway"
       },
       {
+        "lineName": "Sub-Zero",
         "name": "Jason Patton "
       },
       {
@@ -461,6 +462,7 @@
         "name": "Jamarcus Langston "
       },
       {
+        "lineName": "The Executioner",
         "name": "Sean Washington "
       }
     ]
@@ -515,16 +517,27 @@
         "name": "Dale Morris"
       },
       {
+        "lineName": "Ebony Sage",
         "name": "Hubert Goodman "
       }
     ]
   },
   {
     "date": "Sum 90",
+    "line": "Three the HARD WAY!!",
     "image": "",
     "members": [
       {
-        "name": "Eric Dotson"
+        "lineName": "Jacques Gates",
+        "name": "BrainStorm"
+      },
+      {
+        "lineName": "Eric Parris",
+        "name": "2-Hype"
+      },
+      {
+        "lineName": "Jeremy Lincoln",
+        "name": "HardCore"
       }
     ]
   },
@@ -584,14 +597,20 @@
     "image": "",
     "members": [
       {
+        "name": "Greg Ferby"
+      },
+      {
         "name": "Rich Burks"
+      }, 
+      {
+        "name": "Troy Jones"
       }
     ]
   },
   {
     "line": "The Gangsta 7",
     "date": "Spr 87",
-    "image": "",
+    "image": "Gangsta7.jpg",
     "members": [
       {
         "name": "James Tatum",
@@ -630,23 +649,23 @@
     "members": [
       {
         "name": "Michael Howse",
-        "lineName" : ""
+        "lineName" : "Captain Creep"
       },
       {
         "name": "Terrance \"TC\" Carter",
-        "lineName" : ""
+        "lineName" : "Top Cat"
       },
       {
         "name": "Eugene Carter",
         "lineName" : "The Count"
       },
       {
-        "name": "Joey Howard",
-        "lineName" : ""
-      },
-      {
         "name": "Gerry Malone",
         "lineName" : "Steptoe"
+      },
+      {
+        "name": "Joey Howard",
+        "lineName" : ""
       }
     ]
   },
@@ -894,7 +913,7 @@
       },
       {
         "name": "Reginald Rutledge",
-        "lineName":""
+        "lineName":"Gold"
       },
       {
         "name": "Alburtos Horne",
@@ -937,11 +956,11 @@
       },
       {
         "name": "Richard Clark",
-        "lineName": "Sonic Boom"
+        "lineName": ""
       },
       {
         "name": "Darrell G. Lane",
-        "lineName": ""
+        "lineName": "Sonic Boom"
       },
       {
         "name": "Jon Reginald Ransom",

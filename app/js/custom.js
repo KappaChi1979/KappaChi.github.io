@@ -1,3 +1,5 @@
+fetch('https://api.twitter.com/1.1/statuses/user_timeline.json?screen_name=pbs_1914&count=1')
+
 jQuery(document).ready(function ($) {
 
 	$('.nav li, .nav li').on({
