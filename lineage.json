@@ -585,6 +585,7 @@
   },
   {
     "date": "Spr 90",
+    "line": "Royal Blue Panthers",
     "image": "",
     "members": [
       {
@@ -667,12 +668,12 @@
         "name": "Charles Russell"
       },
       {
-        "lineName": "Godfather",
-        "name": "Reggie Jenkins"
-      },
-      {
         "lineName": "Scarface",
         "name": "Mario Gilbert"
+      },
+      {
+        "lineName": "Godfather",
+        "name": "Reggie Jenkins"
       },
       {
         "lineName": "Trigger Man",
@@ -681,6 +682,24 @@
       {
         "lineName": "Capone",
         "name": "Antwoine Turner"
+      }
+    ]
+  },
+  {
+    "date": "Fall 86",
+    "image": "",
+    "members": [
+      {
+        "name": "Michael Miller"
+      },
+      {
+        "name": "Jeff Whaley"
+      },
+      {
+        "name": "Troy Williams"
+      },
+      {
+        "name": "John Tillman"
       }
     ]
   },
@@ -762,24 +781,6 @@
     ]
   },
   {
-    "date": "Fall 84",
-    "image": "",
-    "members": [
-      {
-        "name": "Michael Miller"
-      },
-      {
-        "name": "Jeff Whaley"
-      },
-      {
-        "name": "Troy Williams"
-      },
-      {
-        "name": "John Tillman"
-      }
-    ]
-  },
-  {
     "line": "The French Connection",
     "date": "Sum 84",
     "image": "",
@@ -795,7 +796,7 @@
     ]
   },
   {
-    "date": "Fall 83",
+    "date": "Spr 84",
     "line":"(The International Line)",
     "image": "",
     "members": [
