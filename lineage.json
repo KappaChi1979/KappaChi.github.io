@@ -1,5 +1,47 @@
 [
   {
+    "line": "The Resurgence",
+    "date": "Fall 18",
+    "image": "",
+    "members": [
+    {
+      "lineName": "Σavior",
+      "name":"Trevone Warren"
+    },
+    {
+      "lineName": "Σtronghold",
+      "name": "David Slater"
+    },
+    {
+      "lineName": "CompoΣure",
+      "name": "Trey Winters"
+    },
+    {
+      "lineName": "QuickΣtrike",
+      "name": "Hunter Man"
+    }
+    ]
+  },
+  {
+    "line": "The Overwatch",
+    "date": "Spr 17",
+    "image": "",
+    "members": [
+    {
+      "lineName": "",
+      "name": "Robert Nisby"
+    },
+    {
+      "lineName": "",
+      "name": "Corey Cantrell"
+    },
+    {
+      "lineName": "",
+      "name": "Justin Ransom"
+    }
+    ]
+  },
+  {
     "line": "The Paradox",
     "date": "Spr 16",
     "image": "/~kappachi/LineagePhotos/Paradox16.JPG",
