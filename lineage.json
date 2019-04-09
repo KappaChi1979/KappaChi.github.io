@@ -1,98 +1,1115 @@
 [
   {
-    "line":"League of Shadows",
-    "date":"Spr 16",
-    "image": "/LineagePhotos/Paradox16.JPG",
+    "line": "The Paradox",
+    "date": "Spr 16",
+    "image": "/~kappachi/LineagePhotos/Paradox16.JPG",
     "members": [
-      {"lineName":"Fa1l ∑afe", "name":"Ronnie Little Jr"},
-      {"lineName":"Kill ∑witch", "name":"Corey Williams"},
-      {"lineName":"D3tonation", "name":"Corey Hemphill"}
+      {
+        "lineName": "Fa1l ∑afe",
+        "name": "Ronnie Little Jr"
+      },
+      {
+        "lineName": "Kill ∑witch",
+        "name": "Corey Williams"
+      },
+      {
+        "lineName": "D3tonation",
+        "name": "Corey Hemphill"
+      }
     ]
-  }, {
-    "line":"The Convenant of Solitude",
-    "date":"Fall 14",
-    "image": "/LineagePhotos/Covenant14.jpg",
+  },
+  {
+    "line": "The Convenant of Solitude",
+    "date": "Fall 14",
+    "image": "/~kappachi/LineagePhotos/Covenant14.jpg",
     "members": [
-      {"lineName":"Apost1e", "name":"Jermaine Cheairs"}
+      {
+        "lineName": "Apost1e",
+        "name": "Jermaine Cheairs"
+      }
     ]
-  }, {
-    "line":"The Convenant of Solitude",
-    "date":"Spr 13",
-    "image": "/LineagePhotos/Paradox16.JPG",
+  },
+  {
+    "line": "The League of Shadows",
+    "date": "Spr 13",
+    "image": "/~kappachi/LineagePhotos/League13.jpg",
     "members": [
-      {"lineName":"AsCEncion", "name":"Christopher Mitchell"},
-      {"lineName":"Cerberus", "name":"Ryeon Wedley"},
-      {"lineName":"Haywir3", "name":"Tyrin Fairman"},
-      {"lineName":"PhosFOURus", "name":"Markeith Brown"}
+      {
+        "lineName": "AsCEncion",
+        "name": "Christopher Mitchell"
+      },
+      {
+        "lineName": "Cerberus",
+        "name": "Ryeon Wedley"
+      },
+      {
+        "lineName": "Haywir3",
+        "name": "Tyrin Fairman"
+      },
+      {
+        "lineName": "PhosFOURus",
+        "name": "MarKeith Brown"
+      }
     ]
-  }, {
-    "line":"The FOURmula",
-    "date":"Spr 11",
-    "image": "/LineagePhotos/F.jpg",
+  },
+  {
+    "line": "Born of Affliction",
+    "date": "Spr 12",
+    "image": "/~kappachi/LineagePhotos/BOA.jpg",
     "members": [
-      {"lineName":"Resilience", "name":"Jeremy Henriquez"},
-      {"lineName":"Remedy", "name":"Kris Tucker"},
-      {"lineName":"InΣidious", "name":"Trenton Willis"},
-      {"lineName":"Withstand", "name":"Tyrone Dodson"},
-      {"lineName":"The Arbitrator", "name":"Keith Thomas"},
-      {"lineName":"ReTAILiation", "name":"Fredrick (DC) Wallace Jr"}
+      {
+        "lineName": "Resilience",
+        "name": "Jeremy Henriquez"
+      },
+      {
+        "lineName": "Remedy",
+        "name": "Kris Tucker"
+      },
+      {
+        "lineName": "InΣidious",
+        "name": "Trenton Willis"
+      },
+      {
+        "lineName": "Withstand",
+        "name": "Tyrone Dodson"
+      },
+      {
+        "lineName": "The Arbitrator",
+        "name": "Keith Thomas"
+      },
+      {
+        "lineName": "ReTAILiation",
+        "name": "Fredrick (DC) Wallace Jr"
+      }
     ]
-  }, {
-    "line":"The Σyndicate",
-    "date":"Fall 09",
-    "image": "/LineagePhotos/S.jpg",
+  },
+  {
+    "line": "The FOURmula",
+    "date": "Spr 11",
+    "image": "/~kappachi/LineagePhotos/F.jpg",
     "members": [
-      {"lineName":"MenACE", "name":"Jaesun Campbell"},
-      {"lineName":"Renegade", "name":"Jeremy Stokes"},
-      {"lineName":"The Godfather", "name":"Xavier Andrews"}
+      {
+        "lineName": "The Σynergist",
+        "name": "Jon Reginald Ransom II"
+      },
+      {
+        "lineName": "The Breakthrough",
+        "name": "De'ontarius Summers"
+      },
+      {
+        "lineName": "The Variable",
+        "name": "Brandon White"
+      },
+      {
+        "lineName": "The X-Factor",
+        "name": "Shawn Booker"
+      }
     ]
-  }, {
-    "line":"Weapons of Mass Destruction (W.M.D.)",
-    "date":"Fall 07",
+  },
+  {
+    "line": "The Σyndicate",
+    "date": "Fall 09",
+    "image": "/~kappachi/LineagePhotos/S.jpg",
+    "members": [
+      {
+        "name":"Jaesun Campbell",
+        "lineName": "MenACE"
+      },
+      {
+        "lineName": "Renegade",
+        "name": "Jeremy Stokes"
+      },
+      {
+        "lineName": "The Godfather",
+        "name": "Xavier Andrews"
+      }
+    ]
+  },
+  {
+    "line": "Weapons of Mass Destruction (W.M.D.)",
+    "date": "Fall 07",
     "image": "/~kappachi/LineagePhotos/W.jpg",
     "members": [
-      {"lineName":"Rampage", "name":"Dawo Rogers"},
-      {"lineName":"Juggernaut", "name":"Obinna Alu"},
-      {"lineName":"Authority", "name":"Stanley McGrady"},
-      {"lineName":"Reconnaissance", "name":"Kenneth Woods"},
-      {"lineName":"The 5th Element", "name":"Rickey Fayne Jr."},
-      {"lineName":"The Negotiator", "name":"Michael Russom"},
-      {"lineName":"Catalyst", "name":"Sam Davis IV"},
-      {"lineName":"Special O.P.S.", "name":"Phoeran Cooper"},
-      {"lineName":"Ether", "name":"Dennis McCreary"},
-      {"lineName":"Backlash", "name":"Wayne Chism"}
+      {
+        "name": "Dawo Rogers",
+        "lineName": "Rampage"
+      },
+      {
+        "lineName": "Juggernaut",
+        "name": "Obinna Alu"
+      },
+      {
+        "lineName": "Authority",
+        "name": "Stanley McGrady"
+      },
+      {
+        "lineName": "Reconnaissance ",
+        "name": "Kenneth Woods"
+      },
+      {
+        "lineName": "The 5th Element ",
+        "name": "Rickey Fayne Jr."
+      },
+      {
+        "lineName": "The Negotiator",
+        "name": "Michael Russom"
+      },
+      {
+        "lineName": "Catalyst",
+        "name": "Sam Davis IV"
+      },
+      {
+        "lineName": "Special O.P.S.",
+        "name": "Phoeran Cooper"
+      },
+      {
+        "lineName": "Ether",
+        "name": "Dennis McCreary"
+      },
+      {
+        "lineName": "Backlash",
+        "name": "Wayne Chism"
+      }
     ]
-  }, {
-    "line":"Against All Odds (9.1.1.)",
-    "date":"Spr 06",
-    "image": "/LineagePhotos/aao.png",
+  },
+  {
+    "line": "Against All Odds(9.1.1.)",
+    "date": "Spr 06",
+    "image": "/~kappachi/LineagePhotos/aao.png",
     "members": [
-      {"lineName":"The Crisis/ Short Fuse", "name":"Mark Scott"},
-      {"lineName":"The Truth", "name":"Marlon Boyd"},
-      {"lineName":"Prodigal Son/Prodigy", "name":"Anthony Hobson"},
-      {"lineName":"The Product", "name":"Jon Harris"},
-      {"lineName":"The Alchemist", "name":"Joel White"},
-      {"lineName":"Sincere", "name":"Aaron Porter"},
-      {"lineName":"The Prophet", "name":"Larry Sykes"},
-      {"lineName":"8th Wonder", "name":"Raphael Brown"},
-      {"lineName":"Atlas", "name":"	Antoine Johnson"}
+      {
+        "name": "Mark Scott",
+        "lineName":  "The Crisis / Short Fuse"
+      },
+      {
+        "lineName": "The Truth",
+        "name": "Marlon Boyd "
+      },
+      {
+        "lineName": "Prodigal Son",
+        "name": "Anthony Hobson"
+      },
+      {
+        "lineName": "The Product ",
+        "name": "Jon Harris "
+      },
+      {
+        "lineName": "The Alchemist ",
+        "name": "Joel White "
+      },
+      {
+        "lineName": "Sincere",
+        "name": "Aaron Porter "
+      },
+      {
+        "lineName": "The Prophet ",
+        "name": "Larry Sykes "
+      },
+      {
+        "lineName": "8th Wonder",
+        "name": "Raphael Brown"
+      },
+      {
+        "lineName": "Atlas",
+        "name": "Antoine Johnson "
+      }
     ]
-  }, {
-    "line":"The Dynasty",
-    "date":"Fall 05",
+  },
+  {
+    "line": "The Dynasty",
+    "date": "Fall 05",
     "image": "/~kappachi/LineagePhotos/dynasty.png",
     "members": [
-      {"lineName":"", "name":""},
+      {
+        "name": "Rickey Payne",
+        "lineName": "Napoleon"
+      },
+      {
+        "lineName": "Machiavelli",
+        "name": "Damon Williams "
+      },
+      {
+        "lineName": "King Solomon",
+        "name": "Martin K. Washington"
+      },
+      {
+        "lineName": "Caesar",
+        "name": "Marquise Dyson     "
+      },
+      {
+        "lineName": "Hannibal",
+        "name": "Justin Levy "
+      },
+      {
+        "lineName": "Braveheart",
+        "name": "Greg Bell "
+      },
+      {
+        "lineName": "Charlemagne",
+        "name": "Marco Coleman "
+      }
+    ]
+  },
+  {
+    "line": "The Takeover",
+    "date": "Fall 04",
+    "image": "/~kappachi/LineagePhotos/Takeover.jpg",
+    "members": [
+      {
+        "lineName": "Frank White",
+        "name": "SiCarren Jones"
+      },
+      {
+        "lineName": "Lucky Luciano",
+        "name": "Christopher Jones "
+      },
+      {
+        "lineName": "Scarface",
+        "name": "Melvin Ellis "
+      },
+      {
+        "lineName": "John Gotti",
+        "name": "Jacob Dennis "
+      },
+      {
+        "lineName": "Bumpy Johnson",
+        "name": "Victor Wilson "
+      }
+    ]
+  },
+  {
+    "line": "The Legion of Doom (L.O.D.)",
+    "date": "Spr 04",
+    "image": "/~kappachi/LineagePhotos/LOD.jpg",
+    "members": [
+      {
+        "name": "Dennis Hardison",
+        "lineName": "Stryfe"
+      },
+      {
+        "lineName": "Havok",
+        "name": "Paul Payton Jr."
+      },
+      {
+        "lineName": "Onslaught",
+        "name": "Dustin Jones "
+      }
+    ]
+  },
+  {
+    "line": "The Blu Tang Clan",
+    "date": "Fall 02",
+    "image": "",
+    "members": [
+      {
+        "name": "Taranius Marshall",
+        "lineName":"Inspectah Deck"
+      },
+      {
+        "lineName": "Da Genius",
+        "name": "Jamaal Craig"
+      },
+      {
+        "lineName": "Method Man",
+        "name": "Jonathan Smith "
+      },
+      {
+        "lineName": "GhostFace Killah",
+        "name": "Kasim Barnes "
+      }
+    ]
+  },
+  {
+    "line": "The Chosen 1",
+    "date": "Spr 01",
+    "image": "/~kappachi/LineagePhotos/C1.jpg",
+    "members": [
+      {
+        "name": "Alvin B. Lewis",
+        "lineName":"The Unknown"
+      }
+    ]
+  },
+  {
+    "line": "Three Degrees Below Zero",
+    "date": "Fall 01",
+    "image": "/~kappachi/LineagePhotos/3B0.jpg",
+    "members": [
+      {
+        "name": "Aaron Phillips",
+        "lineName":"Blizzard"
+      },
+      {
+        "name": "Derrell Murray",
+        "lineName":"Jack Frost"
+      },
+      {
+        "name": "Craig Clay",
+        "lineName":"Sub Zero"
+      }
+    ]
+  },
+  {
+    "line": "The Good, The Bad, & The Ugly",
+    "date": "Fall 00 ",
+    "image": "/~kappachi/LineagePhotos/GBU.jpg",
+    "members": [
+      {
+        "name": "Kody R. Taylor",
+        "lineName":"HellSpawn"
+      },
+      {
+        "lineName": "Job",
+        "name": "Cory Haley"
+      },
+      {
+        "lineName": "Robeast",
+        "name": "Robert F. Cornett "
+      }
+    ]
+  },
+  {
+    "line": "Sole Survivor",
+    "date": "Fall 98",
+    "image": "",
+    "members": [
+      {
+        "name": "Vilaphonh Phillip Sisombath",
+        "lineName": "Cho One aka N.A.S."
+      }
+    ]
+  },
+  {
+    "line": "4 Deadly Weapons",
+    "date": "Fall 97",
+    "image": "",
+    "members": [
+      {
+        "name": "Jason \"J-Dub\" Watters",
+        "lineName":""
+      },
+      {
+        "name": "Herman Sutton Jr.",
+        "lineName":"Sawed Off"
+      },
+      {
+        "name": "Kenneth Piety",
+        "lineName":""
+      },
+      {
+        "name": "DeWayne \"D-Wall\" Wallace",
+        "lineName":""
+      }
+    ]
+  },
+  {
+    "line": "Outlaws 4 Life",
+    "date": "Spr 96",
+    "image": "",
+    "members": [
+      {
+        "name": "Gabe Northern",
+        "lineName":"Khadafi"
+      },
+      {
+        "lineName": "Makaveli",
+        "name": "Jason C. Harris"
+      },
+      {
+        "lineName": "Mussolini",
+        "name": "DeAndre Jackson "
+      },
+      {
+        "lineName": "Hussein",
+        "name": "William A. Caldwell "
+      }
+    ]
+  },
+  {
+    "date": "95",
+    "image": "",
+    "members": [
+      {
+        "name": "Relicka Allen"
+      }
+    ]
+  },
+  {
+    "line": "The 1 and Only",
+    "date": "Sum 94",
+    "image": "",
+    "members": [
+      {
+        "name": "Shann D. Coleman"
+      }
+    ]
+  },
+  {
+    "line": "4 Degrees of Terror",
+    "date": "Spr 93",
+    "image": "",
+    "members": [
+      {
+        "lineName": "The Diabolical One",
+        "name": "Isa Conway"
+      },
+      {
+        "lineName": "Sub-Zero",
+        "name": "Jason Patton "
+      },
+      {
+        "lineName": "The Reaper",
+        "name": "Jamarcus Langston "
+      },
+      {
+        "lineName": "The Executioner",
+        "name": "Sean Washington "
+      }
+    ]
+  },
+  {
+    "line": "The 4 Hell Sent Back",
+    "date": "Fall 92",
+    "image": "",
+    "members": [
+      {
+        "lineName": "The Exorcist",
+        "name": "Kelvin Spearman"
+      },
+      {
+        "lineName": "Hellraiser II ",
+        "name": "Kevin Bell "
+      },
+      {
+        "lineName": "The Unholy",
+        "name": "Marcus Dangler"
+      },
+      {
+        "lineName": "Poltergeist",
+        "name": "Brian Cowan "
+      }
+    ]
+  },
+  {
+    "line": "The Task Force",
+    "date": "Spr 92",
+    "image": "",
+    "members": [
+      {
+        "lineName": "Assassin",
+        "name": "Dewayne Hamilton"
+      },
+      {
+        "lineName": "Dr. Know / Bounty Hunter",
+        "name": "Aldana W. Allen"
+      },
+      {
+        "lineName": "Hitman",
+        "name": "Sean Davidson"
+      }
+    ]
+  },
+  {
+    "date": "Spr 91",
+    "image": "",
+    "members": [
+      {
+        "name": "Dale Morris"
+      },
+      {
+        "lineName": "Ebony Sage",
+        "name": "Hubert Goodman "
+      }
+    ]
+  },
+  {
+    "date": "Sum 90",
+    "line": "Three the HARD WAY!!",
+    "image": "",
+    "members": [
+      {
+        "lineName": "Jacques Gates",
+        "name": "BrainStorm"
+      },
+      {
+        "lineName": "Eric Parris",
+        "name": "2-Hype"
+      },
+      {
+        "lineName": "Jeremy Lincoln",
+        "name": "HardCore"
+      }
+    ]
+  },
+  {
+    "date": "Spr 90",
+    "image": "",
+    "members": [
+      {
+        "name": "Wilbert D. Minter Jr."
+      },
+      {
+        "name": "Marion Southhall"
+      },
+      {
+        "name": "Keith L. Jeter"
+      },
+      {
+        "name": "Tony Young"
+      },
+      {
+        "name": "Alando Chambers"
+      },
+      {
+        "name": "Dewayne Dotson"
+      },
+      {
+        "name": "Theron Sherrod"
+      }
+    ]
+  },
+  {
+    "date": "Spr 89",
+    "image": "",
+    "members": [
+      {
+        "name": "Daryll Hardy"
+      },
+      {
+        "name": "Jeremy Lincoln "
+      },
+      {
+        "name": ""
+      },
+      {
+        "name": ""
+      },
+      {
+        "name": ""
+      },
+      {
+        "name": ""
+      }
+    ]
+  },
+  {
+    "date": "Win 88",
+    "image": "",
+    "members": [
+      {
+        "name": "Greg Ferby"
+      },
+      {
+        "name": "Rich Burks"
+      },
+      {
+        "name": "Troy Jones"
+      }
+    ]
+  },
+  {
+    "line": "The Gangsta 7",
+    "date": "Spr 87",
+    "image": "Gangsta7.jpg",
+    "members": [
+      {
+        "name": "James Tatum",
+        "lineName": "Pretty Boy Floyd"
+      },
+      {
+        "lineName": "John Dillinger",
+        "name": "Anthony Bonner"
+      },
+      {
+        "lineName": "Baby Face Nelson",
+        "name": "Charles Russell"
+      },
+      {
+        "lineName": "Godfather",
+        "name": "Reggie Jenkins"
+      },
+      {
+        "lineName": "Scarface",
+        "name": "Mario Gilbert"
+      },
+      {
+        "lineName": "Trigger Man",
+        "name": "Terry Brown"
+      },
+      {
+        "lineName": "Capone",
+        "name": "Antwoine Turner"
+      }
+    ]
+  },
+  {
+    "line": "Nightshift",
+    "date": "Spr 86",
+    "image": "",
+    "members": [
+      {
+        "name": "Michael Howse",
+        "lineName" : "Captain Creep"
+      },
+      {
+        "name": "Terrance \"TC\" Carter",
+        "lineName" : "Top Cat"
+      },
+      {
+        "name": "Eugene Carter",
+        "lineName" : "The Count"
+      },
+      {
+        "name": "Gerry Malone",
+        "lineName" : "Steptoe"
+      },
+      {
+        "name": "Joey Howard",
+        "lineName" : ""
+      }
+    ]
+  },
+  {
+    "line": "Touch of Death",
+    "date": "Spr 85",
+    "image": "",
+    "members": [
+      {
+        "name": "Brett Carter",
+        "lineName" : "Hop Le Rock"
+      },
+      {
+        "name": "Joe Baxter",
+        "lineName" : ""
+      },
+      {
+        "name": "Xavier Cook",
+        "lineName" : ""
+      },
+      {
+        "name": "Harry Galbreath",
+        "lineName" : ""
+      },
+      {
+        "name": "William (Joey) Clinkscales",
+        "lineName" : ""
+      },
+      {
+        "name": "Anthony Bowie",
+        "lineName" : ""
+      },
+      {
+        "name": "Tim Robertson",
+        "lineName" : ""
+      }
+    ]
+  },
+  {
+    "line": "Two Below Zero",
+    "date": "Win 85",
+    "image": "",
+    "members": [
+      {
+        "name": "David Page",
+        "lineName":"Mr.Freeze"
+      },
+      {
+        "lineName": "Iceman",
+        "name": "Ozell Ewell"
+      }
+    ]
+  },
+  {
+    "date": "Fall 84",
+    "image": "",
+    "members": [
+      {
+        "name": "Michael Miller"
+      },
+      {
+        "name": "Jeff Whaley"
+      },
+      {
+        "name": "Troy Williams"
+      },
+      {
+        "name": "John Tillman"
+      }
+    ]
+  },
+  {
+    "line": "The French Connection",
+    "date": "Sum 84",
+    "image": "",
+    "members": [
+      {
+        "lineName": "Jean",
+        "name": "Kevin Harris"
+      },
+      {
+        "lineName": "Pierre",
+        "name": "Douglas Williams"
+      }
+    ]
+  },
+  {
+    "date": "Fall 83",
+    "line":"(The International Line)",
+    "image": "",
+    "members": [
+      {
+        "name": "Sola Collins"
+      },
+      {
+        "name": "Francis Woniwala"
+      },
+      {
+        "name": "Jasper Claye"
+      },
+      {
+        "name": "Ahmed S. Bakhsh"
+      }
+    ]
+  },
+  {
+    "date": "Sum 83",
+    "image": "",
+    "members": [
+      {
+        "name": "Jay Bailey"
+      },
+      {
+        "name": "Johnnie Williams"
+      },
+      {
+        "name": "Jerald Hyatt"
+      },
+      {
+        "name": "Lloyd Bonner"
+      },
+      {
+        "name": "Curtis Johnson"
+      }
+    ]
+  },
+  {
+    "line": "Controversy",
+    "date": "Spr 83",
+    "image": "",
+    "members": [
+      {
+        "name": "Hollis H. Hill",
+        "lineName":""
+      },
+      {
+        "name": "James Outlaw",
+        "lineName":""
+      },
+      {
+        "name": "Michael Bonner",
+        "lineName":""
+      },
+      {
+        "name": "Cavanaugh Mims",
+        "lineName":""
+      },
+      {
+        "name": "Samuel Henderson",
+        "lineName": "Destroyer"
+      }
+    ]
+  },
+  {
+    "line": "Act Four",
+    "date": "Fall 82",
+    "image": "",
+    "members": [
+      {
+        "name": "George M. Howard"
+      },
+      {
+        "name": "Daryl M. Ransom"
+      },
+      {
+        "name": "Eddie Miller"
+      },
+      {
+        "name": "Victor Peeler"
+      }
+    ]
+  },
+  {
+    "line": "Crescent: I Can Do It All By Myself",
+    "info":"(Crescent Looking for a Line Brother)",
+    "date": "Sum 82",
+    "image": "",
+    "members": [
+      {
+        "name": "Ed Jordon",
+        "lineName":"Uno"
+      }
+    ]
+  },
+  {
+    "line": "Ebony and Ivory",
+    "date": "Spr 82",
+    "image": "",
+    "members": [
+      {
+        "name": "Paul Stevenson",
+        "lineName":"Ebony"
+      },
+      {
+        "lineName": "Ivory",
+        "name": "Mark Withrow"
+      }
+    ]
+  },
+  {
+    "line": "RAGNOROK",
+    "info":"(C. Dwayne Noel- D.O.P.)",
+    "date": "Fall 81",
+    "image": "",
+    "members": [
+      {
+        "name": "Randy Wilson",
+        "lineName":""
+      },
+      {
+        "lineName": "Heimdall",
+        "name": "Rafael Clements"
+      },
+      {
+        "lineName": "Loki",
+        "name": "Rodney Beverly"
+      },
+      {
+        "name": "Sander Williams",
+        "lineName":""
+      },
+      {
+        "lineName": "Odin",
+        "name": "John Richardson"
+      },
+      {
+        "name": "Jeff Thomas",
+        "lineName":""
+      },
+      {
+        "lineName": "Thor",
+        "name": "Reginald Towns"
+      }
+    ]
+  },
+  {
+    "line": "7 Elements",
+    "info": "(John C. Avery - DOP, Eugene Cox Jr. - ADOP)",
+    "date": "Sum 81",
+    "image": "",
+    "members": [
+      {
+        "name": "K. Scott Malone",
+        "lineName":"Silver"
+      },
+      {
+        "name": "Reginald Rutledge",
+        "lineName":"Gold"
+      },
+      {
+        "name": "Alburtos Horne",
+        "lineName":""
+      },
+      {
+        "name": "Kevin D. Bass",
+        "lineName":""
+      },
+      {
+        "name": "Anthony Eubanks (Omega Chapter)",
+        "lineName":""
+      },
+      {
+        "name": "Billy Johnson",
+        "lineName":""
+      },
+      {
+        "name": "Glenn Ford",
+        "lineName":""
+      }
+    ]
+  },
+  {
+    "line": "Warp Factor 18",
+    "date": "Spr 80",
+    "image": "/~kappachi/LineagePhotos/WF18.jpg",
+    "members": [
+      {
+        "name": "C. Dwayne Noel",
+        "lineName": ""
+      },
+      {
+        "name": "Joe H. Bradford",
+        "lineName": ""
+      },
+      {
+        "name": "Eugene Cox Jr.",
+        "lineName": "Krypton"
+      },
+      {
+        "name": "Richard Clark",
+        "lineName": ""
+      },
+      {
+        "name": "Darrell G. Lane",
+        "lineName": "Sonic Boom"
+      },
+      {
+        "name": "Jon Reginald Ransom",
+        "lineName": ""
+      },
+      {
+        "name": "Carl A. Hall",
+        "lineName": "Cling On"
+      },
+      {
+        "name": "Victor M. Moody",
+        "lineName": ""
+      },
+      {
+        "name": "Fred J. Williams III",
+        "lineName": "The Force"
+      },
+      {
+        "lineName": "",
+        "name": "Roy L. King Jr."
+      },
+      {
+        "lineName": "",
+        "name": "Victor Davis (Omega Chapter)"
+      },
+      {
+        "lineName": "Star",
+        "name": "Don Hannah"
+      },
+      {
+        "lineName": "",
+        "name": "Steven Clark"
+      },
+      {
+        "name": "Donald Grady",
+        "lineName": "Cosmos"
+      },
+      {
+        "name": "Anton L. Burrell",
+        "lineName": "Astro"
+      },
+      {
+        "name": "Jonathan Blount",
+        "lineName": "Atlas"
+      },
+      {
+        "lineName": "",
+        "name": "Kenneth Davis"
+      },
+      {
+        "lineName": "",
+        "name": "Gerald Williams"
+      }
+    ]
+  },
+  {
+    "date": "Fall 79",
+    "image": "/~kappachi/LineagePhotos/F1979.jpg",
+    "members": [
+      {
+        "name": "John Avery"
+      },
+      {
+        "name": "Eric Cannon"
+      },
+      {
+        "name": "Bretran R. Thompson"
+      },
+      {
+        "name": "Sam James"
+      },
+      {
+        "name": "Randy Teamer (Omega Chapter)"
+      },
+      {
+        "name": "Anthony Wiggins"
+      }
+    ]
+  },
+  {
+    "date": "Sum 79",
+    "line": " -Three The Hard Way",
+    "image": "/~kappachi/LineagePhotos/3B0.jpg",
+    "members": [
+      {
+        "name": "Mark Deathridge",
+        "lineName": "Cowboy"
+      },
+      {
+        "name": "George White",
+        "lineName": "Geo"
+      },
+      {
+        "name": "Wilbur Jones",
+        "lineName": "Bert"
+      }
+    ]
+  },
+  {
+    "date": "Spr 79",
+    "image": "/~kappachi/LineagePhotos/CharterLine.jpg",
+    "line": "Charter Line",
+    "members": [
+      {
+        "name": "Rudy Dirl"
+      },
+      {
+        "name": "Stanley Manning"
+      },
+      {
+        "name": "Bryan Keith Brown"
+      },
+      {
+        "name": "Curtis Webb"
+      },
+      {
+        "name": "Victor C. Tyler"
+      },
+      {
+        "name": "George Staffney"
+      },
+      {
+        "name": "Franklin Odell"
+      },
+      {
+        "name": "Kenneth Adams"
+      }
+    ]
+  },
+  {
+    "date": "Win 79",
+    "image": "",
+    "line": "Charter Members",
+    "members": [
+      {
+        "name": "Patrick Easley"
+      },
+      {
+        "name": "Michael Redus"
+      },
+      {
+        "name": "Terrance Johnson"
+      },
+      {
+        "name": "David Groves"
+      },
+      {
+        "name": "Michael Williams"
+      }
     ]
   }
 ]
-
-
-, {
-    "line":"",
-    "date":"",
-    "image": "",
-    "members": [
-      {"lineName":"", "name":""},
-    ]
-  }

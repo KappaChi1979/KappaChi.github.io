@@ -1,6 +1,6 @@
 var fs = require('fs');
 
-fs.readFile('./message.json', (req, json) => {
+fs.readFile('./lineage.json', (req, json) => {
   var file = '<section id="cd-timeline" class="cd-container">'
   json = JSON.parse(json.toString());
   json.forEach((line) => {
