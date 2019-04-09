@@ -5,7 +5,7 @@ var cheerio = require('cheerio');
 var app = express();
 
 
-var url = 'http://web.utk.edu/~kappachi/lines.htm';
+var url = '/~kappachi/lines.htm';
 var lines = [];
     var i = 216;
 
