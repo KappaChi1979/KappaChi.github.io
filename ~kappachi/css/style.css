@@ -115,7 +115,7 @@ a img:hover { opacity:0.6; transition: width 1s; -moz-transition: 1s; /* Firefox
 /** End of Tags Use Once Line 121 **/ 
 
 /** General Body Styling **/
-body{ background:url('../images/bg_main.png') top center repeat;}
+body{ background:url('/images/bg_main.png') top center repeat;}
 
 /** Header **/
 .top_bar ul{ list-style-type:none;  margin:0; padding:0; }
@@ -124,7 +124,7 @@ body{ background:url('../images/bg_main.png') top center repeat;}
 .top_bar .details i{ color:#a1a1a1; font-size:18px; margin-right:5px;}
 .top_bar .details li{margin-right:10px; }
 .social li{ float:right;}
-.top_bar .social li a{ background-image:url('../images/top_social_icons.png'); display:inline-block; width:30px; height:30px; margin-right:3px; overflow:hidden; text-indent:-50000px;}
+.top_bar .social li a{ background-image:url('/images/top_social_icons.png'); display:inline-block; width:30px; height:30px; margin-right:3px; overflow:hidden; text-indent:-50000px;}
 .top_bar .social li a.s1{ background-position: -5px 0;}
 .top_bar .social li a.s1:hover{ background-position: -5px 32px;}
 .top_bar .social li a.s2{ background-position: -38px 0;}
@@ -161,23 +161,23 @@ span.countdown_amount { display:block; font-size:24px; margin:0 0 2px; line-heig
 span.countdown_section { display:inline-block; color:#fff; font-size:14px; line-height:5px; }
 span.countdown_section:first-child { display:inline-block; color:#fff; font-size:14px; }
 .countdown_section br { margin:0px !important; padding:0px !important; display:inline-block; float:left; line-height:0px; }
-.charity_counter_wrapper{ background:url('../images/bg_counter.png') top center repeat; overflow:hidden; width:100%; margin-top:19px;}
-.charity_title {    background: url("../images/marathon_icon.png") no-repeat scroll 0 center transparent;    color: #1f5490;    float: left;    font-size: 14px;    font-weight: bold;    margin: 3px 0 -1px 16px;    min-height: 51px;    padding: 8px 0 0 52px;}
+.charity_counter_wrapper{ background:url('/images/bg_counter.png') top center repeat; overflow:hidden; width:100%; margin-top:19px;}
+.charity_title {    background: url("/images/marathon_icon.png") no-repeat scroll 0 center transparent;    color: #1f5490;    float: left;    font-size: 14px;    font-weight: bold;    margin: 3px 0 -1px 16px;    min-height: 51px;    padding: 8px 0 0 52px;}
 .event_more a{    background: none repeat scroll 0 0 #1f5490;    font-size: 21px;    padding: 21px 0 22px;    text-align: center; color:#fff;  display:block; }
 .event_more{ margin-left:0 !important;}
 
 /** Header Banner **/
-#banner_slider{ width:100%; margin:0; padding:0;}
-#banner_slider li img{ width:100%; height:auto !important;}
-#banner_slider li { position:relative !important;}
-#banner_slider li div{ position:absolute; left:19.4%; top:60%; font-size:48px; line-height:60px; color:#ffffff; font-family: 'Open Sans', sans-serif; max-width:80% !important;}
+#banner_slider{ display:flex; width:100%; margin:0; padding:0;}
+#banner_slider li img{ width:fit-content; height:auto !important;}
+#banner_slider li {position:relative !important;}
+#banner_slider li div{ position:absolute; left:19.4%; top:60%; font-size:24px; line-height:60px; color:#ffffff; font-family: 'Open Sans', sans-serif; max-width:80% !important;}
 #banner_slider li div  p{ padding:10px 15px; overflow:hidden; margin-bottom:0; display:inline-block; clear:both;}
 #banner_slider li div .b_dark{ background:rgb(27,27,27); background:rgba(27,27,27,0.90); }
 #banner_slider li div .b_green{ background:rgb(31,185,191); background:rgba(31,185,191,0.90); margin-top:-11px;}
 .banner_slider .bx-default-pager{ display:none;}
 .banner_slider{ position:relative;}
 .banner_slider .bx-controls-direction{ position:absolute; right:19.3%; top:77%; max-width:90%;}
-.banner_slider .bx-controls-direction a{ background-image:url('../images/t_slider_nav.png'); display:inline-block; width:28px; height:28px; overflow:hidden; text-indent:-5000px; }
+.banner_slider .bx-controls-direction a{ background-image:url('/images/t_slider_nav.png'); display:inline-block; width:28px; height:28px; overflow:hidden; text-indent:-5000px; }
 .banner_slider .bx-controls-direction a.bx-next{ background-position: 28px 0;}
 .banner_slider .bx-controls-direction a.bx-prev{ background-position: 0 0;}
 
@@ -185,10 +185,10 @@ span.countdown_section:first-child { display:inline-block; color:#fff; font-size
 .feature{  overflow:hidden; -webkit-box-shadow:  1px 1px 8px -6px #000000 ; box-shadow:1px 1px 8px -6px #000000; }
 .feature .ftr_img{ background:#fff; padding:30px 0; display:block;}
 .ftr_img .img{ display:block;  width:80px; height:80px; margin:0 auto; text-indent:-999px; overflow:hidden;}
-.f-img-1 .img{ background:url('../images/feature_img_1.png') top center no-repeat;}
-.f-img-2 .img{ background:url('../images/feature_img_2.png') top center no-repeat;}
-.f-img-3 .img{ background:url('../images/feature_img_3.png') top center no-repeat;}
-.f-img-4 .img{ background:url('../images/feature_img_4.png') top center no-repeat;}
+.f-img-1 .img{ background:url('/images/feature_img_1.png') top center no-repeat;}
+.f-img-2 .img{ background:url('/images/feature_img_2.png') top center no-repeat;}
+.f-img-3 .img{ background:url('/images/feature_img_3.png') top center no-repeat;}
+.f-img-4 .img{ background:url('/images/feature_img_4.png') top center no-repeat;}
 .ftr_txt{ background:#f6f6f6; padding:20px 10px; text-align:center; }
 .ftr_txt strong{ font-size:18px; line-height:30px; display:block; margin:0 0 12px;}
 	/** Feature box hover and Active **/
